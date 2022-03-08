@@ -72,7 +72,7 @@
     <div class="row">
         <div class="col-md-12" >
             <form action="" name="admin_login" class="form-control" method="post" id="form">
-                <h4 style="text-align: center">Login Here</h4><br>
+                <h4 style="text-align: center">Admin Login </h4><br>
                 <input type="text" name="adm_name" placeholder="Enter Username" class="form-control" required><br>
                 <input type="password" name="adm_pass" placeholder="Enter password" class="form-control" required><br>
                 <button class="btn btn-primary" value="submit" type="submit" name="admin_login">Login</button>

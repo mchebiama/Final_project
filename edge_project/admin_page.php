@@ -14,10 +14,10 @@
         #form {
             position: center;
             width: 500px;
-            height: 55vh;
+            height: 60vh;
             margin: auto;
             margin-top: 30px;
-            margin-bottom: 70px;
+            margin-bottom: 50px;
             padding-left: 20px;
             background-color: azure;
         }
@@ -77,7 +77,7 @@
         <div class="row">
             <div class="col-md-12" >
                 <form action="" name="admin_page" class="form-control" method="post" id="form">
-                    <h4 style="text-align: center">Register Here</h4><br>
+                    <h4 style="text-align: center">Admin Register</h4><br>
                     <input type="text" name="adm_name" placeholder="Enter Username" class="form-control" required><br>
                     <input type="email" name="adm_email" placeholder="Enter Email" class="form-control" required><br>
                     <input type="password" name="adm_pass" placeholder="Enter password" class="form-control" required><br>
