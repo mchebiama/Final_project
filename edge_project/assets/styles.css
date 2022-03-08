@@ -1,0 +1,121 @@
+.logo{
+    height: 5vh;
+    width: 10px;
+    float: left;
+    margin-left: 0px;
+}
+.top{
+
+    height: 15vh;
+    background-color: rgba(202,188,207,0.46);
+
+}
+.top_left{
+
+}
+
+.top_right{
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 20px;
+    align-items: start;
+}
+body{
+    background-color: rgba(202,188,207,0.41);
+}
+.footer{
+
+    background-color: black;
+}
+/*.btn{*/
+/*    margin-left: 10px;*/
+
+/*}*/
+.menu_right{
+    border-style: unset ;
+    border-radius: 5px;
+    color: black;
+    background-color: transparent;
+    color: black;
+    margin-top: 30px;
+    padding-left: 20px;
+
+}
+/*.menu_left{*/
+/*    border-style: unset;*/
+/*    border-radius: 5px;*/
+/*    color: black;*/
+/*    margin-top: 10px;*/
+/*    padding-left: 20px;*/
+
+/*}*/
+#img{
+    background: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+.bn_login{
+    width: 100px;
+    margin: auto;
+
+}
+.form_right{
+    width: 50%;
+    float: left;
+}
+.form_left{
+    width: 50%;
+    float: right;
+}
+.container{
+    background-color: darkgray;
+}
+button{
+    position: center;
+}
+.login_box{
+    margin-top: 100px;
+}
+.sidenav{
+    background-color: black;
+    width: 15%;
+    position: fixed;
+    padding-top: 80px;
+    height: 100%;
+    padding-left: 20px;
+
+}
+.sidenav a{
+    color: darkgray;
+    text-decoration: none;
+}
+.main{
+    width: 85%;
+}
+.p_add{
+    margin: auto;
+}
+.footer{
+    text-align: center;
+}
+#top{
+    background-color: black;
+    height: 100px;
+}
+.menu_left{
+    color: white;
+    margin-top: 200px;
+}
+.image{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+}
+h4{
+    font-family: cursive;
+    margin-top: 40px;
+}
+.horizontal-menu{
+    margin-top: 40px;
+}
